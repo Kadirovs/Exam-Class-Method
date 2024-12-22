@@ -1,0 +1,14 @@
+C:\Users\KaKa\OneDrive\Desktop\Question6\bin\Debug\net8.0\Question6.exe
+C:\Users\KaKa\OneDrive\Desktop\Question6\bin\Debug\net8.0\Question6.deps.json
+C:\Users\KaKa\OneDrive\Desktop\Question6\bin\Debug\net8.0\Question6.runtimeconfig.json
+C:\Users\KaKa\OneDrive\Desktop\Question6\bin\Debug\net8.0\Question6.dll
+C:\Users\KaKa\OneDrive\Desktop\Question6\bin\Debug\net8.0\Question6.pdb
+C:\Users\KaKa\OneDrive\Desktop\Question6\obj\Debug\net8.0\Question6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KaKa\OneDrive\Desktop\Question6\obj\Debug\net8.0\Question6.AssemblyInfoInputs.cache
+C:\Users\KaKa\OneDrive\Desktop\Question6\obj\Debug\net8.0\Question6.AssemblyInfo.cs
+C:\Users\KaKa\OneDrive\Desktop\Question6\obj\Debug\net8.0\Question6.csproj.CoreCompileInputs.cache
+C:\Users\KaKa\OneDrive\Desktop\Question6\obj\Debug\net8.0\Question6.dll
+C:\Users\KaKa\OneDrive\Desktop\Question6\obj\Debug\net8.0\refint\Question6.dll
+C:\Users\KaKa\OneDrive\Desktop\Question6\obj\Debug\net8.0\Question6.pdb
+C:\Users\KaKa\OneDrive\Desktop\Question6\obj\Debug\net8.0\Question6.genruntimeconfig.cache
+C:\Users\KaKa\OneDrive\Desktop\Question6\obj\Debug\net8.0\ref\Question6.dll

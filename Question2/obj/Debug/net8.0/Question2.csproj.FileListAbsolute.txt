@@ -1,0 +1,14 @@
+C:\Users\KaKa\OneDrive\Desktop\Question2\bin\Debug\net8.0\Question2.exe
+C:\Users\KaKa\OneDrive\Desktop\Question2\bin\Debug\net8.0\Question2.deps.json
+C:\Users\KaKa\OneDrive\Desktop\Question2\bin\Debug\net8.0\Question2.runtimeconfig.json
+C:\Users\KaKa\OneDrive\Desktop\Question2\bin\Debug\net8.0\Question2.dll
+C:\Users\KaKa\OneDrive\Desktop\Question2\bin\Debug\net8.0\Question2.pdb
+C:\Users\KaKa\OneDrive\Desktop\Question2\obj\Debug\net8.0\Question2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KaKa\OneDrive\Desktop\Question2\obj\Debug\net8.0\Question2.AssemblyInfoInputs.cache
+C:\Users\KaKa\OneDrive\Desktop\Question2\obj\Debug\net8.0\Question2.AssemblyInfo.cs
+C:\Users\KaKa\OneDrive\Desktop\Question2\obj\Debug\net8.0\Question2.csproj.CoreCompileInputs.cache
+C:\Users\KaKa\OneDrive\Desktop\Question2\obj\Debug\net8.0\Question2.dll
+C:\Users\KaKa\OneDrive\Desktop\Question2\obj\Debug\net8.0\refint\Question2.dll
+C:\Users\KaKa\OneDrive\Desktop\Question2\obj\Debug\net8.0\Question2.pdb
+C:\Users\KaKa\OneDrive\Desktop\Question2\obj\Debug\net8.0\Question2.genruntimeconfig.cache
+C:\Users\KaKa\OneDrive\Desktop\Question2\obj\Debug\net8.0\ref\Question2.dll
